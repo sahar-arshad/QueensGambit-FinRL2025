@@ -1,7 +1,7 @@
 # QueensGambit-FinRL2025
 
-# Getting Started
-## 📌 Introduction
+## Getting Started
+### 📌 Introduction
 This project provides a modular framework for training and evaluating reinforcement learning-based trading strategies. With structured components for data handling, training, and backtesting, it allows users to seamlessly develop and analyze AI-driven financial models.
 
 To get started with this framework, clone the repository and navigate through the following primary folders:
